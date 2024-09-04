@@ -1,1 +1,1 @@
-# Basic-Code-of-C
+# Basic c code
